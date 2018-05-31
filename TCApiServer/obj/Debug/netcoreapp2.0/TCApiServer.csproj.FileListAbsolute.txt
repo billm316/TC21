@@ -1,0 +1,14 @@
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\bin\Debug\netcoreapp2.0\TCApiServer.deps.json
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\bin\Debug\netcoreapp2.0\TCApiServer.runtimeconfig.json
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\bin\Debug\netcoreapp2.0\TCApiServer.runtimeconfig.dev.json
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\bin\Debug\netcoreapp2.0\TCApiServer.dll
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\bin\Debug\netcoreapp2.0\TCApiServer.pdb
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\bin\Debug\netcoreapp2.0\TCEntities.dll
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\bin\Debug\netcoreapp2.0\TCEntities.pdb
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\obj\Debug\netcoreapp2.0\TCApiServer.csprojResolveAssemblyReference.cache
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\obj\Debug\netcoreapp2.0\TCApiServer.csproj.CoreCompileInputs.cache
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\obj\Debug\netcoreapp2.0\TCApiServer.AssemblyInfoInputs.cache
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\obj\Debug\netcoreapp2.0\TCApiServer.AssemblyInfo.cs
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\obj\Debug\netcoreapp2.0\TCApiServer.csproj.CopyComplete
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\obj\Debug\netcoreapp2.0\TCApiServer.dll
+C:\Users\cs0003875\source\repos\TCApiServer\TCApiServer\obj\Debug\netcoreapp2.0\TCApiServer.pdb
